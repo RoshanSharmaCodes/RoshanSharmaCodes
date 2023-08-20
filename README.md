@@ -35,3 +35,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshansharmacodes&show_icons=true&locale=en&layout=compact" alt="roshansharmacodes" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshansharmacodes&show_icons=true&locale=en" alt="roshansharmacodes" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshansharmacodes&" alt="roshansharmacodes" /></p>
+
+<h2>You can also read my Blogs </h2>
+<h4> 1. Top 7 AWS Services for Developers:</h4><a href="https://roshanstack.hashnode.dev/top-7-aws-services-for-developers">https://roshanstack.hashnode.dev/top-7-aws-services-for-developers</a>
+<h4> 2. Write Shorter & Optimized Code in JS</h4><a href="https://roshanstack.hashnode.dev/writing-shorter-optimize-code-in-javascript">https://roshanstack.hashnode.dev/writing-shorter-optimize-code-in-javascript</a>
+<h4> 3. Dockerize ReactJS Application</h4><a href="https://roshanstack.hashnode.dev/how-to-dockerize-a-reactjs-application-a-step-by-step-guide">https://roshanstack.hashnode.dev/how-to-dockerize-a-reactjs-application-a-step-by-step-guide</a>
+<h4> 4. Write Code like a Senior Developer</h4><a href="https://roshanstack.hashnode.dev/mastering-javascript-write-code-like-senior-developers">https://roshanstack.hashnode.dev/mastering-javascript-write-code-like-senior-developers</a>
+<h4> 5. VS Code Extension to Increase Productivity</h4><a href="https://roshanstack.hashnode.dev/top-15-vs-code-extension-to-increase-productivity">https://roshanstack.hashnode.dev/top-15-vs-code-extension-to-increase-productivity</a>
+<h4> 6. Dockerize NodeJS REST API</h4><a href="https://roshanstack.hashnode.dev/dockerizing-rest-api-using-nodejs">https://roshanstack.hashnode.dev/dockerizing-rest-api-using-nodejs</a>
+<h4> 7. Best Practices for Securing Web Applications</h4><a href="https://roshanstack.hashnode.dev/securing-web-applications-best-practices">https://roshanstack.hashnode.dev/securing-web-applications-best-practices</a>
+<h4>For More Such Content visit this link </h4><a href="https://roshanstack.hashnode.dev/">Click here</a>
