@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Roshan Sharma</h1>
 <h3 align="left">A passionate Full Stack Developer from India</h3>
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400px" align="center"/>
-![LeetCode Stats](https://leetcode.card.workers.dev/roshancodes_?theme=dark&font=baloo&extension=null)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=roshansharmacodes&label=Profile%20views&color=0e75b6&style=flat" alt="roshansharmacodes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshansharmacodes" alt="roshansharmacodes" /></a> </p>
