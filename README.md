@@ -7,7 +7,14 @@
 <p>✅ I have 3.5 YOE in Development & Project Lead.</p>
 <p>✅ Some of my mojor work tech stacks are HTML, JavaScript, CSS(Less), JQuery, ReactJS, NextJS, NodeJS, ExpressJS, MySQL, AWS (S3, EC2, Lambda, Route53, API Gateway etc...) </p>
 <p>✅ To Download My Resume <a href="https://drive.google.com/file/d/1QEzHoMFK8l0mQRVxu_6xoL1sRMAe09Uf/view?usp=sharing">Click Here</a> </p>
-<p>✅ What I am aiming is to get a role where I can work with the startup as a founding engineer and can contribute my skills for the product development so that it can be scaled to million of users.</p>
+<p>✅ What I am aiming is to get a role where I can work or build a real-life products by utilizing my development skills.</p>
+
+<h2>What you can expect from me?</h2>
+<p>⚡ Develop highly interactive Front end / User Interfaces for your Web applications</p>
+<p>⚡ Web App Optimizations (including UI, UX, Network Calls, Responsiveness) using Modern Techniques</p>
+<p>⚡ Integration of third party services such as Appwrite/ Supabase/ Stripe / MongoDB / Firebase/ AWS / Digital Ocean</p>
+<p>⚡ Developer Robust Backend using NodeJS Implementing - Rate Limiting, Caching, API Keys, Middleware, Query Sanitization etc...</p>
+<p>⚡ Implementing CI/CD Pipeline using AWS and Create Dockerized applications production ready.</p>
 
 ![](https://leetcard.jacoblin.cool/roshancodes_?ext=heatmap)
 
@@ -27,9 +34,7 @@
 
 - 💬 Ask me about **Product Development**
 
-- 📫 How to reach me **roshan@vcmedialabs.com**
-
-- ⚡ Fun fact **I also also an Agency called VCMediaLabs.com (Personal Branding Agency)**
+- 📫 How to reach me **roshan.rks2812000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
