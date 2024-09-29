@@ -3,7 +3,11 @@
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400px" align="center"/>
 
 <h2><u>Brief About Me</u></h2>
-
+<p>I have developed 5+ live applications for some of the giants like ICICI Prudential & startups like CodeMyApp, Superlative Creations, Aperture Gears etc...</p>
+<p>I have 3.5 YOE in Development & Project Lead.</p>
+<p>Some of my mojor work tech stacks are HTML, JavaScript, CSS(Less), JQuery, ReactJS, NextJS, NodeJS, ExpressJS, MySQL, AWS (S3, EC2, Lambda, Route53, API Gateway etc...) </p>
+<p>To Download My Resume <a href="https://drive.google.com/file/d/1QEzHoMFK8l0mQRVxu_6xoL1sRMAe09Uf/view?usp=sharing">Click Here</a> </p>
+<p>What I am aiming is to get a role where I can work with the startup as a founding engineer and can contribute my skills for the product development so that it can be scaled to million of users.</p>
 
 ![](https://leetcard.jacoblin.cool/roshancodes_?ext=heatmap)
 
